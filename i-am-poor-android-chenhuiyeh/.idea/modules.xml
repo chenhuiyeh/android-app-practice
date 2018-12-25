@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\AndroidProjects\i-am-poor-android-chenhuiyeh\I-Am-Poor-Android.iml" filepath="C:\AndroidProjects\i-am-poor-android-chenhuiyeh\I-Am-Poor-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-am-poor-android-chenhuiyeh.iml" filepath="$PROJECT_DIR$/i-am-poor-android-chenhuiyeh.iml" />
+    </modules>
+  </component>
+</project>
