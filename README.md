@@ -1,4 +1,4 @@
-# londonappbreweryandroidcourse
+# london-app-brewery-android-course
 Apps completed throughout the londonappbrewery android course
 
 #I am Poor
